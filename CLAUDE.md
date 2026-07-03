@@ -27,16 +27,7 @@
 - 使用 Git Credential Manager for Windows 管理凭据
 - 认证令牌存储在 Windows 凭据管理器中
 
-## Models 目录结构
-```
-Models/
-├── DeepLabV3+_model/    # DeepLabV3+ 分割模型
-├── SDDNet_model/        # SDDNet 模型
-├── STRNet_model/        # STRNet 模型
-├── UNet_model/          # UNet 分割模型
-├── Yolo26_model/        # YOLO26 分割/语义模型
-└── Yolov8_seg_model/    # YOLOv8 分割模型 (含 ONNX/TFLite/APK)
-```
+
 
 ## 首次克隆后需要执行
 ```bash
